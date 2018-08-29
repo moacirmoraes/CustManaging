@@ -1,0 +1,14 @@
+[
+    {
+        "id" : "AXSP",
+        "address" : "R. Flórida, 1738 - Cidade Monções, São Paulo - SP, 04565-001"
+    },
+    {
+        "id" : "AXMG",
+        "address": "Alameda Oscar Niemeyer, 360 - Vale do Sereno, Nova Lima - MG, 34000-000"
+    },
+    {
+        "id":"AXES",
+        "address" : "R. José Alexandre Buaiz, 300 - Enseada do Suá, Vitória - ES, 29050-580"
+    }
+]
